@@ -1,6 +1,7 @@
 # Market Systems Lab
 
-👋Hi! We are Market Systems Lab team
+👋 Hi! We are a small independent team of DeFi, Web3 and market infrastructure specialists.
+
 
 This GitHub profile contains tools, bots, research scripts, analytics systems and infrastructure developed across several years of work with DeFi protocols, on-chain data, market monitoring, automation workflows, strategy research and prediction market operations.
 
@@ -10,9 +11,9 @@ This GitHub profile contains tools, bots, research scripts, analytics systems an
 
 ### Web3 & DeFi Research
 
-Research of DeFi protocols, yield strategies, ve-models, staking mechanics, liquidity incentives and protocol-specific risk factors.
+Research of DeFi protocols, yield strategies, ve-models, staking mechanics, liquidity incentives and protocol-specific risk factors.📈
 
-### Prediction Markets & Market Making
+### Prediction Markets & Market Making 🤖
 
 Active work with prediction markets such as Polymarket, Predict.fun and other event-based trading venues.
 
@@ -28,7 +29,7 @@ Tools for market monitoring, exchange integrations, price/funding data collectio
 
 ### Quantitative Research
 
-Scripts and systems for strategy backtesting, event-based analysis, market reaction studies, yield comparison, risk/reward estimation and historical behavior analysis.
+Scripts and systems for strategy backtesting, event-based analysis, market reaction studies, yield comparison, risk/reward estimation and historical behavior analysis.📊
 
 ### Risk Management
 
@@ -56,7 +57,7 @@ The repositories in this profile include:
 
 ## Repository Status
 
-Most repositories are published as archived portfolio code.
+Most repositories are published as archived portfolio code. ❗️
 
 Some projects may contain outdated dependencies, deprecated APIs or assumptions that were valid only during a specific market period.
 
