@@ -26,10 +26,6 @@ Tools and systems for extracting, parsing and aggregating blockchain data, walle
 
 Tools for market monitoring, exchange integrations, price/funding data collection, portfolio state tracking, execution support and latency-sensitive analytics.
 
-### Bot Infrastructure
-
-Telegram/Discord bots, monitoring agents, task runners, wallet/account checkers, data exporters and workflow automation tools.
-
 ### Quantitative Research
 
 Scripts and systems for strategy backtesting, event-based analysis, market reaction studies, yield comparison, risk/reward estimation and historical behavior analysis.
