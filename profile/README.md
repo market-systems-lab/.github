@@ -1,6 +1,6 @@
 # Market Systems Lab
 
-Hi! We are Market Systems Lab team
+👋Hi! We are Market Systems Lab team
 
 This GitHub profile contains tools, bots, research scripts, analytics systems and infrastructure developed across several years of work with DeFi protocols, on-chain data, market monitoring, automation workflows, strategy research and prediction market operations.
 
